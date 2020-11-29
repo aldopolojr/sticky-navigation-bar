@@ -186,7 +186,7 @@ body {
     }
 
     .navbar.show .menu-list li a {
-        margin-left: 0px;
+        margin-left: 0;
     }
 }
 
